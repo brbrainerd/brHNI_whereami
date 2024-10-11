@@ -30,6 +30,12 @@ def find_afni_directory(possible_paths, executable='whereami'):
     raise FileNotFoundError(f"'{executable}' not found in any of the specified directories.")
 
 def main():
+    # Determine the directory where this script resides
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    
+    # Change the working directory to the script's directory
+    os.chdir(script_dir)
+    
     # Define possible AFNI parent directories
     possible_afni_dirs = [
         "/Users/rdm.lab/abin",
@@ -51,7 +57,7 @@ def main():
         "CA_N27_GW",
         "CA_ML_18_MNI",
         "CA_LR_18_MNI",
-        "Haskins_Pediatric_Nonline",
+        "Haskins_Pediatric_Nonlinear_1.01",  # Corrected atlas name
         "FS.afni.MNI2009c_asym",
         "FS.afni.TTN27",
         "Brodmann_Pijn",
@@ -67,8 +73,8 @@ def main():
         'afni_parent_directory': afni_dir
     }
     
-    # Write the configuration to config.yml
-    config_path = 'config.yml'
+    # Write the configuration to config.yml in the script's directory
+    config_path = os.path.join(script_dir, 'config.yml')
     with open(config_path, 'w') as config_file:
         yaml.dump(config, config_file, default_flow_style=False)
     
