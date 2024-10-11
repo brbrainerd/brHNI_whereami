@@ -11,9 +11,9 @@ pandas = "^2.2.3"
 pyyaml = "^6.0.2"
 
 [tool.poetry.scripts]
-fill-contrast = "brhni_whereami.fill_contrast_new_args:main"
 generate-config = "brhni_whereami.generate_config:main"
 whereami-analysis = "brhni_whereami.whereami_analysis:main"
+analyze = "brhni_whereami.main:main" 
 
 [build-system]
 requires = ["poetry-core"]

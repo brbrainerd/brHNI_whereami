@@ -1,3 +1,67 @@
+# brHNI_whereami
+
+## Description
+
+This project utilizes AFNI's `whereami` tool to map MNI peak coordinates to brain atlas regions. It includes scripts to generate configuration files and perform analysis on neuroimaging data.
+
+## Setup
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/brHNI_whereami.git
+    cd brHNI_whereami
+    ```
+
+2. **Install Dependencies with Poetry:**
+
+    ```bash
+    poetry install
+    ```
+
+3. **Prepare Peak Coordinates:**
+
+    Ensure `peak_coordinates.tsv` is in the project directory with the following format:
+
+    ```tsv
+    Contrast	Peak coordinate X	Peak coordinate Y	Peak coordinate Z
+    MNoFraming>GFraming (Ado)	-6.0	-100.0	-10.0
+    ...	...	...	...
+    ```
+
+4. **Run the Analysis:**
+
+    ```bash
+    poetry run run-analysis
+    ```
+
+## Output
+
+Results are saved in `whereami_results.tsv` in the project directory, structured with separate columns for each pertinent field.
+
+## Troubleshooting
+
+- **Atlas Not Found:**
+
+    Ensure that the atlas names in `generate_config.py` match those listed by:
+
+    ```bash
+    whereami -show_atlases
+    ```
+
+- **Encoding Errors:**
+
+    The scripts handle encoding errors by replacing problematic characters. Check log files for detailed error messages.
+
+## Dependencies
+
+- Python 3.13
+- PyYAML
+- Poetry
+
+
+## Acknowledgements
+These scripts were written with the aid of OpenAI's ChatGPT models o1-preview and o1-mini. Below are some of the prompts used: 
 Ingest the syntax of the whereami command from AFNI's (https://afni.nimh.nih.gov/) whereami help file (START OF WHEREAMI HELP) to (END OF WHEREAMI HELP) and write a python 3.13 script that will use the whereami command to with the right coordinate spaces for each atlas (START OF MNI PEAK COORDINATES) to (END OF MNI PEAK COORDINATES) using the MNI x y z peak coordinates (START OF MNI PEAK COORDINATES) to (END OF MNI PEAK COORDINATES). so that I can see which atlas regions are closest to each peak from multiple models.
 
 (START OF WHEREAMI HELP)
@@ -521,3 +585,14 @@ Peak coordinate X	Peak coordinate Y	Peak coordinate Z
 70	-30	32
 -22	-104	6
 (END OF MNI PEAK COORDINATES)
+
+
+the path to afni will either be "/Users/rdm.lab/abin" or "/Users/rdm.laboratory/abin" (scan for whereami program in both locations at runtime, and put the correct path into config.yml).  also, expand the structure of peak_coordinates.tsv (convert back to .tsv) to include a new column: "Contrast", describing the statistical contrast being run on MRI subjects on the basis of what condition they were in when the MRI scan was run.  here is an example of what the expanded structure of peak_coordinates.tsv should look like:
+Contrast	Peak coordinate X	Peak coordinate Y	Peak coordinate Z
+MNoFraming>GFraming (Ado)	-6.0	-100.0	-10.0
+MNoFraming>GFraming (Ado)	-26.0	-68.0	44.0
+MNoFraming>GFraming (Ado)	10.0	-102.0	4.0
+MNoFraming>GFraming (Ado)	70.0	-30.0	32.0
+GFraming > MNoFraming (Ado)	-22.0	-104.0	6.0
+GFraming > MNoFraming (Ado)	10.0	-102.0	0.0
+GFraming > MNoFraming (Ado)	-24.0	-66.0	40.0
