@@ -1,0 +1,38 @@
+# Python cache files
+**__pycache__/
+*.py[cod]
+
+# MyPy cache
+.mypy_cache/
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Database files
+*.db
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Poetry lock file (optional, depending on your preference)
+# poetry.lock
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+config.yml
