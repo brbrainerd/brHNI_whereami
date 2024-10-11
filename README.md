@@ -9,7 +9,7 @@ This project utilizes AFNI's `whereami` tool to map MNI peak coordinates to brai
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/brHNI_whereami.git
+    git clone https://github.com/brbrainerd/brHNI_whereami.git
     cd brHNI_whereami
     ```
 
@@ -32,7 +32,7 @@ This project utilizes AFNI's `whereami` tool to map MNI peak coordinates to brai
 4. **Run the Analysis:**
 
     ```bash
-    poetry run run-analysis
+    poetry run analyze
     ```
 
 ## Output
