@@ -32,7 +32,7 @@ This project utilizes AFNI's `whereami` tool to map MNI peak coordinates to brai
 4. **Run the Analysis:**
 
     ```bash
-    poetry run run-analysis
+    poetry run analyze
     ```
 
 ## Output
