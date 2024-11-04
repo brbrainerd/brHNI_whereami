@@ -1,0 +1,772 @@
+Contrast,H,Label,Broadmann Area,"Bi-sided 
+ Voxels",Total Voxels,Peak coordinate X,Peak coordinate Y,Peak coordinate Z,Bi-sided Threshold Voxels,Two-sided Threshold Voxels,Peak t cluster
+MNoFraming>GFraming (Ado),L,"41.0 % overlap with Left Middle Occipital Gyrus, code 51
+  
+  29.4 % overlap with Left Calcarine Gyrus, code 43",Left-SecVisual (18),1127*,1127*,-6,-100,-10,151,151,4.487
+,L,"45.3 % overlap with Left Superior Parietal Lobule, code 59
+  
+  33.3 % overlap with Left Inferior Parietal Lobule, code 61
+  
+  16.6 % overlap with Left Middle Occipital Gyrus, code 51",Left-VisMotor(7),388*,388*,-26,-68,44,,,3.763
+,R,"46.3 % overlap with Right Calcarine Gyrus, code 44
+  
+  17.2 % overlap with Right Middle Occipital Gyrus, code 52
+  
+  12.0 % overlap with Right Cuneus, code 46",Right-SecVisual(18),330*,330*,10,-102,4,,,3.695
+,R,"87.6 % overlap with Right SupraMarginal Gyrus, code 64",N / A,227*,227*,70,-30,32,,,-4.109
+GFraming > MNoFraming (Ado),L,"33.4 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  23.2 % overlap with Left_Calcarine_Gyrus, code 43
+  14.1 % overlap with Left_Inferior_Occipital_Gyrus, code 53
+  10.6 % overlap with Left_Lingual_Gyrus, code 47
+ 33.6 % overlap with Right_Calcarine_Gyrus, code 44
+  22.7 % overlap with Right_Middle_Occipital_Gyrus, code 52",Left-SecVisual (18),1628*,1628,-22,-104,6,155,155,-4.643
+,R,"33.6 % overlap with Right_Calcarine_Gyrus, code 44
+  22.7 % overlap with Right_Middle_Occipital_Gyrus, code 52",N / A,742*,742,10,-102,0,,,-3.593
+,L,"45.5 % overlap with Left_Superior_Parietal_Lobule, code 59
+  31.6 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  17.8 % overlap with Left_Middle_Occipital_Gyrus, code 51",Left-AngGyrus (39),413*,413,-24,-66,40,,,-4.678
+MNoFraming>GFraming (Adu),L,"13.6 % overlap with Left Middle Occipital Gyrus, code 51",Left-SecVisual(18),4774*,4774*,-20,-102,14,142,142,4.471
+,R,"49.5 % overlap with Right Precentral Gyrus, code 2
+  
+  33.2 % overlap with Right Postcentral Gyrus, code 58",N / A,1345*,1345*,0,-22,82,,,-3.359
+,R,"48.8 % overlap with Right Superior Temporal Gyrus, code 82
+  
+  38.6 % overlap with Right Rolandic Operculum, code 18",N / A,369*,369*,70,-6,10,,,-3.976
+,L,"50.3 % overlap with Left Precuneus, code 67
+  
+  39.2 % overlap with Left Middle Cingulate Cortex, code 33",N / A,339*,339*,0,-42,56,,,-3.507
+GFraming > MNoFraming (Adu),L,"13.6 % overlap with Left_Middle_Occipital_Gyrus, code 51",Left-SecVisual (18),4774*,4774,-20,-102,14,143,143,-4.471
+,R,"49.5 % overlap with Right_Precentral_Gyrus, code 2
+  33.2 % overlap with Right_Postcentral_Gyrus, code 58",N / A,1345*,1345,0,-22,82,,,3.359
+,R,"48.8 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  38.6 % overlap with Right_Rolandic_Operculum, code 18",N / A,369*,369,70,-6,10,,,3.976
+,L,"50.3 % overlap with Left_Precuneus, code 67
+  39.2 % overlap with Left_Middle_Cingulate_Cortex, code 33",N / A,339*,339,0,-42,56,,,3.507
+Mixed_Framing > Verbatim_NoFraming (Ado),L,"37.8 % overlap with Left Calcarine Gyrus, code 43
+  
+  31.7 % overlap with Left Middle Occipital Gyrus, code 51
+  
+  19.4 % overlap with Left Superior Occipital Gyrus, code 49",N/A,304*,304*,-18,-104,10,157,157,4.304214
+,R,"73.9 % overlap with Right Calcarine Gyrus, code 44",N/A,240*,240*,10,-102,0,,,3.815947
+,,,,,,,,,,,
+Mixed_Framing > Verbatim_NoFraming (Adu),R,"45.7 % overlap with Right Calcarine Gyrus, code 44
+  
+  14.7 % overlap with Right Cuneus, code 46
+  
+  11.2 % overlap with
+  Right Superior Occipital Gyrus, code 50",N/A,798*,798*,12,-100,20,149,149,-4.447604
+,L,"39.4 % overlap with Left Middle Occipital Gyrus, code 51
+  
+  28.7 % overlap with Left Calcarine Gyrus, code 43",Left-SecVisual (18),569*,560*,-8,-104,-6,,,-3.878239
+Gist_Framing > Verbatim_NoFraming (Ado),R,"35.2 % overlap with Right Cuneus, code 46
+  
+  31.8 % overlap with Right Calcarine Gyrus, code 44
+  
+  31.0 % overlap with Right Superior Occipital Gyrus, code 50",N/A,169*,169*,10,-94,28,155,155,3.569355
+,,,,,,,,,,,
+SmalFraming>LargeFraming (Ado),L,"34.9 % overlap with Left_Inferior_Parietal_Lobule, code 61",N/A,371*,371*,-40,-64,62,152,152,-3.624
+,L,"61.5 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  
+  27.9 % overlap with Left_Middle_Occipital_Gyrus, code 51",N/A,219*,219*,-12,-94,34,,,3.821
+,L,"42.4 % overlap with Left_Precentral_Gyrus, code 1
+  
+  17.5 % overlap with Left_Middle_Frontal_Gyrus, code 7",N/A,192*,192*,-46,2,62,,,-4.516
+,,,,,,,,,,,
+SmallFraming>LargeFraming (Adu),R,"57.5 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  
+  30.6 % overlap with Right_Angular_Gyrus, code 66",N/A,852*,852*,36,-62,62,143,143,-3.325
+,L,"28.2 % overlap with Left_Cerebellum_(Crus_1), code 91
+  
+  23.4 % overlap with Left_Cerebellum_(Crus_2), code 93
+  
+  22.2 % overlap with Right_Cerebellum_(Crus_2), code 94
+  
+  10.8 % overlap with Right_Cerebellum_(Crus_1), code 92",N/A,433*,433*,2,-84,-18,,,-3.67
+,L,"57.1 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  
+  27.0 % overlap with Left_Superior_Parietal_Lobule, code 59
+  
+  11.6 % overlap with Left_Angular_Gyrus, code 65",N/A,394*,394*,-32,-72,58,,,-3.296
+,R,"43.1 % overlap with Right_SMA, code 20
+  
+  21.0 % overlap with Left_SMA, code 19
+  
+  18.4 % overlap with Right_Superior_Medial_Gyrus, code 24
+  
+  14.4 % overlap with Left_Superior_Medial_Gyrus, code 23",Right-FrontEyeFields(8),299*,299*,2,20,50,,,-4.19
+,R,"45.2 % overlap with Right_Cerebellum_(Crus_1), code 92
+  
+  42.3 % overlap with Right_Cerebellum_(Crus_2), code 94",N/A,237*,237*,44,-74,-24,,,-3.531
+,L,"92.8 % overlap with Left_Cerebellum_(Crus_1), code 91",N/A,201*,201*,-40,-74,-22,,,-3.387
+,R,"62.3 % overlap with Right_Middle_Frontal_Gyrus, code 8",N/A,169*,169,40,8,66,,,-4.126
+,R,"81.6 % overlap with Right_Postcentral_Gyrus, code 58
+  
+  16.3 % overlap with Right_Superior_Parietal_Lobule, code 60",Right-PrimSensory(1),147*,147,36,-40,62,,,3.488
+LargeFraming > LargeNoFraming (Adu),R,"59.1 % overlap with Right_Postcentral_Gyrus, code 58
+  
+  32.2 % overlap with Right_Precentral_Gyrus, code 2",N/A,172*,172*,48,-32,-68,137,137,4.071
+LargeNoFraming > LargeFraming (Adu),R,"59.1 % overlap with Right_Postcentral_Gyrus, code 58
+  
+ 32.2 % overlap with Right_Precentral_Gyrus, code 2",N / A,172*,172*,48,-32,68,139,139,-4.071
+MediumLargeFraming>MediumLargeNoFraming (Adu),L,"43.2 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  18.4 % overlap with Left_Inferior_Occipital_Gyrus, code 53",Left-SecVisual(18),187*,187*,-14,-106,-2,139,139,-3.78
+MediumLargeNoFraming > MediumLargeFraming (Adu),L,"43.2 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  18.4 % overlap with Left_Inferior_Occipital_Gyrus, code 53",Left-SecVisual(18),187*,187*,-14,-106,-2,137,137,3.778
+LossRisk>LossSure (Ado),R,"60.1 % overlap with Right_Calcarine_Gyrus, code 44
+  
+  14.2 % overlap with 
+ Right_Cuneus, code 46
+  
+  10.4 % overlap with Right_Inferior_Occipital_Gyrus, code 54",Right-PrimVisual(17),228*,228*,14,-102,-4,139,139,-3.624
+,L,"52.9 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  35.3 % overlap with Left_Inferior_Occipital_Gyrus, code 53",Left-SecVisual(18),211*,211*,-14,-104,6,,,-4.35
+LossRisk>LossSure (Adu),R,"31.5 % overlap with Right_Calcarine_Gyrus, code 44
+  
+  24.1 % overlap with Right_Cuneus, code 46
+  
+  15.5 % overlap with Right_Superior_Occipital_Gyrus, code 50",N / A,175*,175*,18,-102,16,139,139,-3.787
+,L,"58.4 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  8.7 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  
+  3.4 % overlap with Left_Calcarine_Gyrus, code 43",N / A,173*,173*,-22,-102,16,,,-4.369
+GainSure > GainRisky (Ado),R,"Right Superior Occipital Gyrus (45.2 %), Right Cuneus (30.5 %)",Right-SecVisual(18),377*,377*,12,-104,4,130,130,-3.415
+,L,"Left Superior Occipital Gyrus (54.8 %), Left Middle Occipital Gyrus (32.4 %)",N/A,220*,220*,-12,-104,18,,,-4.073
+GainRisk > GainSure (Ado),R,"43.1 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  25.1 % overlap with Right_Cuneus, code 46
+  22.3 % overlap with Right_Calcarine_Gyrus, code 44",N / A,315*,315*,10,-102,2,128,128,-3.745
+GainSure > GainRisk (Adu),R,"Right Calcarine Gyrus (40.4 %), Right Cuneus (38.6 %)",N/A,175*,175*,12,-100,18,118,118,-3.307
+GainRisk > GainSure (Adu),R,"40.4 % overlap with Right_Calcarine_Gyrus, code 44
+  38.6 % overlap with Right_Cuneus, code 46",N / A,175*,175*,12,-100,18,110,110,-3.307
+LargeLossRisk>LargeLossSure (Ado),L,"68.1 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  21.8 % overlap with Left_Superior_Occipital_Gyrus, code 49",N / A,165*,165*,-14,-104,14,96,96,-3.347
+LargeLossSure > LargeLossRisk (Ado),L,"68.1 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  21.8 % overlap with Left_Superior_Occipital_Gyrus, code 49",N / A,165*,165*,-14,-104,14,96,96,3.347
+LargeGainSure>LargeGainRisk(Adu),R,"69.5 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  
+  22.9 % overlap with Right_Angular_Gyrus, code 66",N/A,316*,316*,48,-60,56,128,128,-3.832
+,R,"68.9 % overlap with Right_Middle_Frontal_Gyrus, code 8
+  
+  15.4 % overlap with Right_Inferior_Frontal_Gyrus_(p._Opercularis), code 12",N/A,285*,285*,56,30,36,,,-3.688
+,L,"55.0 % overlap with Left_Cuneus, code 45
+  
+  10.6 % overlap with Left_Calcarine_Gyrus, code 43
+  
+  10.2 % overlap with Left_Precuneus, code 67",Left-SecVisual(18),143*,143*,-16,-60,18,,,3.72
+,L,"80.3 % overlap with Left_SMA, code 19
+  
+  12.5 % overlap with Left_Superior_Medial_Gyrus, code 23",N/A,132*,132*,0,16,54,,,-3.725
+LargeMediumLossSure>LargeMediumLossRisk (Ado),L,"44.3 % overlap with Left_Postcentral_Gyrus, code 57
+  
+  12.2 % overlap with Left_Precentral_Gyrus, code 1",N/A,289*,289*,-46,-42,68,143,143,-3.372
+MediumLargeLossRisk>MediumLargeLossSure (ado),L,"44.3 % overlap with Left_Postcentral_Gyrus, code 57
+  12.2 % overlap with Left_Precentral_Gyrus, code 1",,289,269,-46,-42,68,145,145,3.372
+LargeSmallGainRIsk>LargeSmallGainSure (adu),R,"49.0 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  21.9 % overlap with Left_Anterior_Cingulate_Cortex, code 31
+  20.3 % overlap with Right_Anterior_Cingulate_Cortex, code 32",,177*,177*,2,32,30,142,142,-3.767
+SmallGainSure>SmallGainRisk (Adu),R,"38.5 % overlap with Right_Calcarine_Gyrus, code 44
+  
+  31.5 % overlap with Right_Cuneus, code 46
+  
+  12.5 % overlap with Right_Superior_Occipital_Gyrus, code 50",Right-SecVisual(18),102*,102*,16,-100,16,73,73,3.423
+Large>Small (Ado),R,"33.6 % overlap with Right_Precuneus, code 68
+  
+  25.4 % overlap with Left_Precuneus, code 67
+  
+  11.4 % overlap with Right_Superior_Parietal_Lobule, code 60",Right-VisMotor(7),1442*,1442*,0,-52,68,150,150,-3.442
+,L,"44.3 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  
+  19.9 % overlap with Left_Angular_Gyrus, code 65",N/A,1087*,1087*,-32,-70,64,,,3.788
+,R,"44.8 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  
+  31.4 % overlap with Right_Angular_Gyrus, code 66
+  
+  15.7 % overlap with Right_Superior_Parietal_Lobule, code 60",N/A,782*,782*,32,-72,60,,,3.562
+,L,"41.9 % overlap with Left_Precentral_Gyrus, code 1
+  
+  27.6 % overlap with Left_Middle_Frontal_Gyrus, code 7",N/A,518*,518*,-42,2,66,,,4.91
+,L,"53.8 % overlap with Left_Superior_Medial_Gyrus, code 23
+  
+  14.2 % overlap with Right_Middle_Cingulate_Cortex, code 34",Right-FrontEyeFields(8),445*,445*,0,34,36,,,4.227
+,R,"86.3 % overlap with Right_SupraMarginal_Gyrus, code 64",N/A,361*,361*,70,-24,34,,,-3.99
+,L,"45.3 % overlap with Left_Insula_Lobe, code 29
+  
+  30.9 % overlap with Left_Superior_Temporal_Gyrus, code 81",N/A,342*,342*,-64,2,-6,,,-3.678
+,L,"24.4 % overlap with Left_Cerebellum_(Crus_2), code 93
+  
+  17.1 % overlap with Right_Cerebellum_(Crus_2), code 94
+  
+  16.4 % overlap with Cerebellar_Vermis_(7), code 113
+  
+  15.4 % overlap with Right_Cerebellum_(Crus_1), code 92
+  
+  11.2 % overlap with Left_Cerebellum_(Crus_1), code 91",N/A,320*,320*,2,-84,-18,,,3.503
+,L,"56.9 % overlap with Left_SupraMarginal_Gyrus, code 63",N/A,278*,278*,-68,-28,18,,,-3.77
+,R,"71.1 % overlap with Right_Insula_Lobe, code 30",Right-Insula(13),203*,203*,42,-16,0,,,-3.906
+,R,"50.6 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  
+  42.5 % overlap with Left_Middle_Cingulate_Cortex, code 33",Right-VentAntCing(24),166*,166*,2,-16,48,,,-4.457
+,L,"54.0 % overlap with Left_Fusiform_Gyrus, code 55
+  
+  20.6 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  
+  11.8 % overlap with Left_Lingual_Gyrus, code 47",Right-Fusiform (37),160*,160*,32,-44,-10,,,-4.913
+,R,"37.1 % overlap with Right_Rolandic_Operculum, code 18
+  
+  24.9 % overlap with Right_Temporal_Pole, code 84
+  20.8 % overlap with Right_Insula_Lobe, code 30
+  
+  14.1 % overlap with Right_Superior_Temporal_Gyrus, code 82",Right-PreMot+SuppMot(6),153*,153*,66,6,4,,,-3.72
+Large>Small (Adu),R,"25.8 % overlap with Right_Postcentral_Gyrus, code 58
+  
+  
+  13.1 % overlap with Right_Precentral_Gyrus, code 2
+  
+  10.7 % overlap with Right_Middle_Cingulate_Cortex, code 34",N/A,4184*,4184*,44,-30,72,145,145,-4.441
+,L,"42.5 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  
+  26.3 % overlap with Left_Precentral_Gyrus, code 1
+  
+  12.2 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13",N/A,1875*,1875*,-34,6,70,,,4.026
+,R,"28.7 % overlap with Right_Middle_Temporal_Gyrus, code 86
+  
+  26.9 % overlap with Right_SupraMarginal_Gyrus, code 64
+  
+  19.7 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  13.3 % overlap with Right_Rolandic_Operculum, code 18",N/A,1695*,1695*,66,-58,18,,,-3.305
+,R,"26.6 % overlap with Right_Cerebellum_(Crus_2), code 94
+  
+  22.5 % overlap with Right_Cerebellum_(Crus_1), code 92
+  
+  14.5 % overlap with Right_Cerebellum_(VI), code 100
+  
+  13.2 % overlap with Left_Cerebellum_(Crus_2), code 93
+  
+  11.5 % overlap with Left_Cerebellum_(Crus_1), code 91",N/A,1652*,1652*,0,-84,-18,,,4.504
+,R,"41.4 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  
+  34.5 % overlap with Right_Angular_Gyrus, code 66
+  
+  12.0 % overlap with Right_Superior_Parietal_Lobule, code 60",N/A,1483*,1483*,32,-74,58,,,3.344
+,L,"54.8 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  
+  14.5 % overlap with Left_Superior_Parietal_Lobule, code 59
+  13.9 % overlap with Left_Angular_Gyrus, code 65",N/A,1480*,1480*,-34,-70,62,,,3.706
+,R,"56.2 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  
+  16.0 % overlap with Right_Middle_Temporal_Gyrus, code 86
+  
+  14.7 % overlap with Right_Temporal_Pole, code 84",N/A,912*,912*,64,8,0,,,-3.419
+,R,"64.8 % overlap with Right_Middle_Frontal_Gyrus, code 8
+  
+  10.1 % overlap with Right_Inferior_Frontal_Gyrus_(p._Triangularis), code 14",N/A,890*,890*,38,6,68,,,3.966
+,L,"51.8 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  
+  29.6 % overlap with Left_SupraMarginal_Gyrus, code 63",N/A,798*,798*,-70,-32,20,,,-3.3
+,L,"33.7 % overlap with Left_Superior_Medial_Gyrus, code 23
+  
+  30.1 % overlap with Left_SMA, code 19
+  
+  18.5 % overlap with Right_SMA, code 20",N/A,792*,792*,0,22,48,,,4.513
+,R,"48.8 % overlap with Right_Cuneus, code 46
+  
+  14.8 % overlap with Right_Calcarine_Gyrus, code 44
+  
+  13.4 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  10.6 % overlap with Right_Precuneus, code 68",Right-VisualAssoc(19),672*,672*,16,-88,44,,,-3.359
+,L,"38.3 % overlap with Left_Superior_Temporal_Gyrus, code 81",N/A,671*,671*,-66,-4,4,,,-3.373
+,L,"45.1 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  
+  19.3 % overlap with Left_Middle_Orbital_Gyrus, code 9
+  
+  17.7 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13
+  
+  13.6 % overlap with 
+ Left_Inferior_Frontal_Gyrus_(p._Orbitalis), code 15",N/A,543*,543*,-46,54,4,,,3.554
+,L,"54.0 % overlap with Left_Cerebellum_(Crus_1), code 91
+  
+  31.0 % overlap with Left_Cerebellum_(Crus_2), code 93
+  
+  14.7 % overlap with Left_Cerebellum_(VI), code 99",N/A,459*,459*,-48,-78,-34,,,3.344
+,L,"55.9 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  
+  42.9 % overlap with Left_Cuneus, code 45",Left-VisualAssoc(19),305*,305*,-16,-92,34,,,3.297
+,R,"21.6 % overlap with Right_Amygdala, code 42
+  
+  15.7 % overlap with Right_Hippocampus, code 38
+  
+  15.2 % overlap with Right_Insula_Lobe, code 30",Right-Amygdala,291*,291*,26,4,-18,,,-3.724
+,L,"50.5 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  30.7 % overlap with Left_Middle_Temporal_Gyrus, code 85",N/A,251*,251*,-56,-76,6,,,-3.293
+,L,"48.2 % overlap with Left_Fusiform_Gyrus, code 55
+  
+  23.4 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  
+  18.6 % overlap with Left_Lingual_Gyrus, code 47",Left-VisualAssoc(19),190*,190*,-28,-46,-8,,,-4.207
+,L,"53.0 % overlap with Left_Middle_Occipital_Gyrus, code 51",Left-SecVisual(18),188*,188*,-42,-90,-4,,,-3.471
+,L,"49.0 % overlap with Left_Calcarine_Gyrus, code 43",N/A,170*,170*,-16,-62,-36,,,-4.546
+,R,"31.5 % overlap with Right_Olfactory_cortex, code 22
+  
+  19.0 % overlap with Left_Caudate_Nucleus, code 71
+  12.7 % overlap with 
+  
+ Left_Olfactory_cortex, code 21",N/A,166*,166*,0,16,8,,,-4.219
+Small > Large (Ado),R,"23.1 % overlap with Right_Precuneus, code 68
+  19.7 % overlap with Left_Precuneus, code 67
+  11.9 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  11.2 % overlap with Left_Middle_Cingulate_Cortex, code 33",Right-VisMotor (7),2256*,2256*,0,-52,68,161,161,3.5794
+,L,"43.2 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  18.4 % overlap with Left_Angular_Gyrus, code 65",N/A,1401*,1401*,-32,-70,64,,,-3.807
+,R,"43.5 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  29.6 % overlap with Right_Angular_Gyrus, code 66
+  17.2 % overlap with Right_Superior_Parietal_Lobule, code 60",N/A,1197*,1197*,46,-56,62,,,-4.0081
+,L,"34.4 % overlap with Left_Insula_Lobe, code 29
+  30.0 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  13.8 % overlap with Left_Rolandic_Operculum, code 17",N/A,1096*,1096*,-66,-4,4,,,3.4402
+,L,"43.8 % overlap with Left_Superior_Medial_Gyrus, code 23
+  19.4 % overlap with Left_SMA, code 19
+  15.8 % overlap with Right_Superior_Medial_Gyrus, code 24
+  10.1 % overlap with Right_Middle_Cingulate_Cortex, code 34",Right-FrontEyeFields (8),667*,667*,0,34,36,,,-4.7563
+,L,"40.8 % overlap with Left_Precentral_Gyrus, code 1
+  29.4 % overlap with Left_Middle_Frontal_Gyrus, code 7",N/A,649*,649*,-48,2,60,,,-5.3284
+,R,"82.7 % overlap with Right_SupraMarginal_Gyrus, code 64",N/A,642*,642*,70,-22,34,,,3.3335
+,R,"24.3 % overlap with Right_Cerebellum_(Crus_1), code 92
+  20.9 % overlap with Left_Cerebellum_(Crus_2), code 93
+  16.2 % overlap with Right_Cerebellum_(VI), code 100
+  10.1 % overlap with Left_Cerebellum_(Crus_1), code 91",N/A,580*,580*,2,-86,-20,,,-3.9699
+,L,"54.0 % overlap with Left_SupraMarginal_Gyrus, code 63",N/A,559*,559*,-68,-30,44,,,3.703
+,R,"72.1 % overlap with Right_Middle_Frontal_Gyrus, code 8",N/A,532*,532*,48,22,52,,,-4.0459
+,R,"31.5 % overlap with Right_Rolandic_Operculum, code 18
+  28.5 % overlap with Right_Insula_Lobe, code 30
+  16.8 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  15.0 % overlap with Right_Temporal_Pole, code 84",Right-PreMot+SuppMot (6),446*,446*,66,6,4,,,3.9244
+,R,"63.5 % overlap with Right_Insula_Lobe, code 30",Right-Insula (13),278*,278*,40,2,-14,,,3.33
+,L,"47.7 % overlap with Left_Fusiform_Gyrus, code 55
+  20.0 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  16.8 % overlap with Left_Lingual_Gyrus, code 47",Left-Fusiform (37),262*,262*,-30,-46,-8,,,5.2615
+,L,"46.2 % overlap with Left_Middle_Cingulate_Cortex, code 33
+  34.0 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  11.8 % overlap with Right_SMA, code 20",Left-PreMot+SuppMot (6),259*,259*,-2,2,46,,,3.7664
+Small > Large (Adu),R,"25.8 % overlap with Right_Postcentral_Gyrus, code 58
+  13.1 % overlap with Right_Precentral_Gyrus, code 2
+  10.7 % overlap with Right_Middle_Cingulate_Cortex, code 34",N/A,4184*,4184*,44,-30,72,149,149,4.4409
+,L,"42.5 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  26.3 % overlap with Left_Precentral_Gyrus, code 1
+  12.2 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13",N/A,1875*,1875*,-34,6,70,,,-4.0262
+,R,"28.7 % overlap with Right_Middle_Temporal_Gyrus, code 86
+  26.9 % overlap with Right_SupraMarginal_Gyrus, code 64
+  19.7 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  13.3 % overlap with Right_Rolandic_Operculum, code 18",N/A,1695*,1695*,66,-58,18,,,3.3045
+,R,"26.6 % overlap with Right_Cerebellum_(Crus_2), code 94
+  22.5 % overlap with Right_Cerebellum_(Crus_1), code 92
+  14.5 % overlap with Right_Cerebellum_(VI), code 100
+  13.2 % overlap with Left_Cerebellum_(Crus_2), code 93
+  11.5 % overlap with Left_Cerebellum_(Crus_1), code 91",N/A,1652*,1652*,0,-84,-18,,,-4.5038
+,R,"41.4 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  34.5 % overlap with Right_Angular_Gyrus, code 66
+  12.0 % overlap with Right_Superior_Parietal_Lobule, code 60",N/A,1483*,1483*,32,-74,58,,,-3.3439
+,L,"54.8 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  14.5 % overlap with Left_Superior_Parietal_Lobule, code 59
+  13.9 % overlap with Left_Angular_Gyrus, code",N/A,1480*,1480*,-34,-70,62,,,-3.7058
+,R,"56.2 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  16.0 % overlap with Right_Middle_Temporal_Gyrus, code 86
+  14.7 % overlap with Right_Temporal_Pole, code 84",N/A,912*,912*,64,8,0,,,3.4194
+,R,"64.8 % overlap with Right_Middle_Frontal_Gyrus, code 8
+  10.1 % overlap with Right_Inferior_Frontal_Gyrus_(p._Triangularis), code 14",N/A,890*,890*,38,6,68,,,-3.9664
+,L,"51.8 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  29.6 % overlap with Left_SupraMarginal_Gyrus, code 63",N/A,798*,798*,-70,-32,20,,,3.3002
+,L,"33.7 % overlap with Left_Superior_Medial_Gyrus, code 23
+  30.1 % overlap with Left_SMA, code 19
+  18.5 % overlap with Right_SMA, code 20",N/A,792*,792*,0,22,48,,,-4.5125
+,R,"48.8 % overlap with Right_Cuneus, code 46
+  14.8 % overlap with Right_Calcarine_Gyrus, code 44
+  13.4 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  10.6 % overlap with Right_Precuneus, code 68",Right-VisualAssoc (19),672*,672*,16,-88,44,,,3.3592
+,L,"38.3 % overlap with Left_Superior_Temporal_Gyrus, code 81",N/A,671*,671*,-66,-4,4,,,3.3731
+,L,"45.1 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  19.3 % overlap with Left_Middle_Orbital_Gyrus, code 9
+  17.7 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13
+  13.6 % overlap with Left_Inferior_Frontal_Gyrus_(p._Orbitalis), code 15",N/A,543*,543*,-46,54,4,,,-3.3554
+,L,"54.0 % overlap with Left_Cerebellum_(Crus_1), code 91
+  31.0 % overlap with Left_Cerebellum_(Crus_2), code 93
+  14.7 % overlap with Left_Cerebellum_(VI), code 99",N/A,459*,459*,-48,-78,-34,,,-3.3439
+,L,"55.9 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  42.9 % overlap with Left_Cuneus, code 45",Left-VisualAssoc (19),305*,305*,-16,-92,34,,,3.2965
+,R,"21.6 % overlap with Right_Amygdala, code 42
+  15.7 % overlap with Right_Hippocampus, code 38
+  15.2 % overlap with Right_Insula_Lobe, code 30",Right-Amgydala,291*,291*,26,4,-18,,,3.7243
+,L,"50.5 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  30.7 % overlap with Left_Middle_Temporal_Gyrus, code 85",N/A,251*,251*,-56,-76,6,,,3.2934
+,L,"48.2 % overlap with Left_Fusiform_Gyrus, code 55
+  23.4 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  18.6 % overlap with Left_Lingual_Gyrus, code 47",Left-VisualAssoc (19),190*,190*,-28,-46,-8,,,4.2072
+,L,"53.0 % overlap with Left_Middle_Occipital_Gyrus, code 51",N/A,188*,188*,-42,-90,22,,,3.4705
+,L,"49.0 % overlap with Left_Calcarine_Gyrus, code 43",Left-SecVisual (18),170*,170*,-16,-62,16,,,4.5461
+,R,"31.5 % overlap with Right_Olfactory_cortex, code 22
+  19.0 % overlap with Left_Caudate_Nucleus, code 71
+  12.7 % overlap with Left_Olfactory_cortex, code 21",N/A,166*,166*,0,16,-8,,,4.2191
+LargeGain > SmallGain (Ado),R,"Right Precuneus (52.3 %), Right Superior Parietal Lobule (17.2 %)",Right-VisMotor(7),732*,732*,4,-62,58,148,148,-4.351
+,L,Left SupraMarginal Gyrus (49.8 %),N/A,545*,545*,-68,-32,44,,,-4.478
+,L,"Left Precuneus (60.1 %), Left Superior Parietal Lobule (39.9 %)",Left-VisMotor(7),284*,284*,-12,-56,74,,,-3.354
+,R,Right SupraMarginal Gyrus (88.6 %),N/A,243*,243*,68,-32,46,,,-3.822
+,L,"Left Superior Frontal Gyrus (79.9 %), Left SMA (14.5 %)",N/A,156*,156*,-16,0,78,,,-3.44
+LargeGain > SmallGain (Adu),L,"Left Inferior Parietal Lobule (46.0 %), Left Angular Gyrus (34.7 %)",N/A,331*,331*,-38,-72,56,144,144,3.752
+,R,"Right Angular Gyrus (52.0 %), Right Inferior Parietal Lobule (46.8 %)",Right-AngGyrus (39),187*,187*,46,-62,52,,,3.5
+SmallGain > LargeGain (Ado),R,"77.3 % overlap with Right_Precuneus, code 68
+  15.4 % overlap with Right_Superior_Parietal_Lobule, code 60",Right-DorsalPCC (31),373*,373*,4,-42,54,154,154,3.3703
+,L,"59.6 % overlap with Left_SupraMarginal_Gyrus, code 63",N/A,243*,243*,-68,-32,44,,,3.9272
+,R,"88.9 % overlap with Right_SupraMarginal_Gyrus, code 64",N/A,187*,187*,68,-34,44,,,3.6561
+,L,"69.9 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  21.5 % overlap with Left_Precentral_Gyrus, code 1",N/A,175*,175*,-52,16,46,,,-3.3309
+SmallGain > LargeGain (Adu),L,"46.0 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  34.7 % overlap with Left_Angular_Gyrus, code 65",N/A,331*,331*,-38,-72,56,144,144,-3.7521
+,R,"52.0 % overlap with Right_Angular_Gyrus, code 66
+  46.8 % overlap with Right_Inferior_Parietal_Lobule, code 62",Right-AngGyrus (39),187*,187*,46,-62,52,,,-3.5001
+LargeLoss > SmallLoss (Ado),L,"52.0 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  19.3 % overlap with Left_Superior_Parietal_Lobule, code 59
+  10.1 % overlap with Left_Angular_Gyrus, code 65",N/A,689*,,-32,-70,64,150,150,3.5863
+,R,"49.4 % overlap with Right_Cuneus, code 46
+  43.6 % overlap with Right_Superior_Occipital_Gyrus, code 50",N/A,427*,,10,-94,30,,,-3.3522
+,L,"58.8 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  28.9 % overlap with Left_Cuneus, code 45
+  10.2 % overlap with Left_Middle_Occipital_Gyrus, code 51",N/A,335*,,-12,-94,34,,,-3.3732
+,L,"71.5 % overlap with Left_Cerebellum_(Crus_1), code 91
+  28.4 % overlap with Left_Cerebellum_(VI), code 99",N/A,256*,,-38,-72,-20,,,3.7509
+,R,"88.1 % overlap with Right_Inferior_Parietal_Lobule, code 62",N/A,254*,,52,-50,60,,,3.3033
+,L,"61.2 % overlap with Left_Precentral_Gyrus, code 1",N/A,224*,,-48,2,60,,,4.6771
+,L,"24.1 % overlap with Cerebellar_Vermis_(7), code 113
+  21.2 % overlap with Cerebellar_Vermis_(6), code 112
+  18.8 % overlap with Left_Cerebellum_(Crus_1), code 91
+  16.0 % overlap with Left_Cerebellum_(Crus_2), code 93",N/A,214*,,0,-86,-20,,,3.5825
+,R,"55.8 % overlap with Right_Superior_Parietal_Lobule, code 60
+  42.2 % overlap with Right_Angular_Gyrus, code 66",Right-VisMotor (7),180*,,30,-74,58,,,3.3568
+,R,"50.6 % overlap with Right_Cerebellum_(VI), code 100
+  48.4 % overlap with Right_Cerebellum_(Crus_1), code 92",N/A,153*,,38,-66,-22,,,3.5683
+LargeLoss > Small Loss (Adu),R,"24.7 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  22.4 % overlap with Right_Postcentral_Gyrus, code 58
+  15.3 % overlap with Right_SupraMarginal_Gyrus, code 64
+  11.4 % overlap with Right_Rolandic_Operculum, code 18",N/A,4047*,,62,12,-2,143,143,-3.6288
+,L,"23.5 % overlap with Left_Cerebellum_(Crus_1), code 91
+  18.5 % overlap with Right_Cerebellum_(VI), code 100
+  15.6 % overlap with Right_Cerebellum_(Crus_1), code 92
+  11.2 % overlap with Left_Cerebellum_(Crus_2), code 93
+  10.7 % overlap with Right_Cerebellum_(Crus_2), code 94",N/A,1847*,,0,-84,-18,,,3.7484
+,L,"50.3 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  15.2 % overlap with Left_SupraMarginal_Gyrus, code 63
+  10.8 % overlap with Left_Rolandic_Operculum, code 17",N/A,1593*,,-70,-32,20,,,-3.4883
+,L,"32.3 % overlap with Left_Precentral_Gyrus, code 1
+  25.6 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  17.1 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13",N/A,1506*,,-44,0,64,,,4.5776
+,L,"25.9 % overlap with Left_Middle_Cingulate_Cortex, code 33
+  25.7 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  11.1 % overlap with Left_Precuneus, code 67
+  10.8 % overlap with Right_Precuneus, code 68",Right-VisMotor (7),1479*,,0,-54,68,,,-3.4592
+,R,"11.9 % overlap with Right_Caudate_Nucleus, code 72
+  11.6 % overlap with Left_Caudate_Nucleus, code 71",N/A,1384*,,0,14,-8,,,-5.0618
+,L,"58.4 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  25.1 % overlap with Left_Superior_Parietal_Lobule, code 59",N/A,1288*,,-34,-68,60,,,4.0248
+,R,"42.2 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  34.3 % overlap with Right_Angular_Gyrus, code 66",N/A,1234*,,32,-72,60,,,4.5443
+,L,"25.2 % overlap with Left_Calcarine_Gyrus, code 43
+  16.6 % overlap with Right_Calcarine_Gyrus, code 44
+  16.3 % overlap with Right_Precuneus, code 68
+  12.5 % overlap with Left_Cuneus, code 45
+  10.5 % overlap with Left_Precuneus, code 67",Left-SecVisual (18),758*,,-14,-60,14,,,-4.9457
+,L,"39.7 % overlap with Left_SMA, code 19
+  25.9 % overlap with Right_SMA, code 20
+  16.0 % overlap with Left_Superior_Medial_Gyrus, code 23
+  10.2 % overlap with Right_Superior_Medial_Gyrus, code 24",Right-FrontEyeFields (8),598*,,0,20,50,,,4.5964
+,L,"46.8 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  22.8 % overlap with Left_Middle_Temporal_Gyrus, code 85",N/A,518*,,-50,-80,30,,,-3.3497
+,R,"59.5 % overlap with Right_Middle_Frontal_Gyrus, code 8
+  18.4 % overlap with Right_Inferior_Frontal_Gyrus_(p._Triangularis), code 14",N/A,481*,,52,36,34,,,3.6113
+,R,"32.0 % overlap with Right_Superior_Medial_Gyrus, code 24
+  27.0 % overlap with Left_Superior_Medial_Gyrus, code 23
+  13.4 % overlap with Right_Anterior_Cingulate_Cortex, code 32
+  12.7 % overlap with Right_Mid_Orbital_Gyrus, code 26",Left-DorsalACC (32),436*,,-6,48,-6,,,-3.4297
+,L,"52.1 % overlap with Left_Fusiform_Gyrus, code 55
+  20.2 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  19.7 % overlap with Left_Lingual_Gyrus, code 47",Left-VisualAssoc (19),311*,,-28,-48,-8,,,-4.8314
+,R,"77.9 % overlap with Right_Middle_Temporal_Gyrus, code 86",N/A,285*,,62,-62,18,,,-3.4376
+,L,"46.4 % overlap with Left_Calcarine_Gyrus, code 43
+  23.8 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  21.0 % overlap with Left_Inferior_Occipital_Gyrus, code 53",N/A,261*,,-8,-100,-4,,,3.5016
+,R,"44.9 % overlap with Right_Medial_Temporal_Pole, code 88
+  26.6 % overlap with Right_Temporal_Pole, code 84
+  25.9 % overlap with Right_Inferior_Temporal_Gyrus, code 90",Right-ParsObitalis (47),193*,,44,26,-22,,,-3.4067
+,R,"43.6 % overlap with Right_Fusiform_Gyrus, code 56
+  37.3 % overlap with Right_ParaHippocampal_Gyrus, code 40
+  17.1 % overlap with Right_Lingual_Gyrus, code 48",Right-Fusiform (37),186*,,24,-40,-12,,,-4.5077
+,L,"39.8 % overlap with Left_Insula_Lobe, code 29
+  21.1 % overlap with Left_Superior_Temporal_Gyrus, code 81",Left-SupTempGyrus (22),185*,,-40,-18,-4,,,-4.38386
+,R,"66.4 % overlap with Cerebellar_Vermis_(4/5), code 111
+  25.9 % overlap with Right_Cerebellum_(IV-V), code 98",N/A,179*,,0,-52,-16,,,3.9409
+,R,"66.7 % overlap with Right_Cuneus, code 46
+  25.1 % overlap with Right_Superior_Occipital_Gyrus, code 50",N/A,156*,,14,-90,42,,,-4.1073
+,L,"47.3 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  18.8 % overlap with Left_Middle_Orbital_Gyrus, code 9
+  18.1 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13
+  15.2 % overlap with Left_Inferior_Frontal_Gyrus_(p._Orbitalis), code 15",Right-OrbFrontal (11),153*,,-46,54,4,,,3.3533
+,R,"51.5 % overlap with Right_Mid_Orbital_Gyrus, code 26
+  33.8 % overlap with Left_Mid_Orbital_Gyrus, code 25",N/A,153*,,0,50,-16,,,-3.7614
+SmallLoss>LargeLoss (Ado),L,"52.0 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  19.3 % overlap with Left_Superior_Parietal_Lobule, code 59
+  10.1 % overlap with Left_Angular_Gyrus, code 65",N/A,689*,689*,-32,-70,64,150,150,-3.586
+,R,"49.4 % overlap with Right_Cuneus, code 46
+  43.6 % overlap with Right_Superior_Occipital_Gyrus, code 50",N/A,427*,427*,10,-94,30,,,3.352
+,L,"58.8 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  28.9 % overlap with Left_Cuneus, code 45
+  10.2 % overlap with Left_Middle_Occipital_Gyrus, code 51",N/A,335*,335*,-12,-94,34,,,3.373
+,L,"71.5 % overlap with Left_Cerebellum_(Crus_1), code 91
+  28.4 % overlap with Left_Cerebellum_(VI), code 99",N/A,256*,256*,-38,-72,-20,,,-3.751
+,L,"61.2 % overlap with Left_Precentral_Gyrus, code 1",N/A,254*,254*,52,-50,60,,,-3.303
+,L,"61.2 % overlap with Left_Precentral_Gyrus, code 1",N/A,224*,224*,-48,2,60,,,-4.677
+,,"24.1 % overlap with Cerebellar_Vermis_(7), code 113
+  21.2 % overlap with Cerebellar_Vermis_(6), code 112
+  18.8 % overlap with Left_Cerebellum_(Crus_1), code 91
+  16.0 % overlap with Left_Cerebellum_(Crus_2), code 93",N/A,214*,214*,0,-86,-20,,,-3.583
+,R,"55.8 % overlap with Right_Superior_Parietal_Lobule, code 60
+  42.2 % overlap with Right_Angular_Gyrus, code 66",Right-VisMotor (7),180*,180*,30,-74,58,,,-3.357
+,R,"50.6 % overlap with Right_Cerebellum_(VI), code 100
+  48.4 % overlap with Right_Cerebellum_(Crus_1), code 92",N/A,153*,153*,38,-66,-22,,,-3.568
+SmallLoss>LargeLoss (Adu),R,"24.7 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  22.4 % overlap with Right_Postcentral_Gyrus, code 58
+  15.3 % overlap with Right_SupraMarginal_Gyrus, code 64
+  11.4 % overlap with Right_Rolandic_Operculum, code 18",N/A,4070*,4070*,62,12,-2,143,143,3.629
+,L,"23.5 % overlap with Left_Cerebellum_(Crus_1), code 91
+  18.5 % overlap with Right_Cerebellum_(VI), code 100
+  15.6 % overlap with Right_Cerebellum_(Crus_1), code 92
+  11.2 % overlap with Left_Cerebellum_(Crus_2), code 93
+  10.7 % overlap with Right_Cerebellum_(Crus_2), code 94",N/A,1847*,1847*,0,-84,-18,,,-3.748
+,L,"50.3 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  15.2 % overlap with Left_SupraMarginal_Gyrus, code 63
+  10.8 % overlap with Left_Rolandic_Operculum, code 17",N/A,1593*,1593*,-70,-32,20,,,3.488
+,L,"32.3 % overlap with Left_Precentral_Gyrus, code 1
+  25.6 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  17.1 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13",N/A,1506*,1506*,-44,0,64,,,-4.578
+,L,"25.9 % overlap with Left_Middle_Cingulate_Cortex, code 33
+  25.7 % overlap with Right_Middle_Cingulate_Cortex, code 34
+  11.1 % overlap with Left_Precuneus, code 67
+  10.8 % overlap with Right_Precuneus, code 68",Right-VisMotor (7),1479*,1479*,0,-54,68,,,3.459
+,R,"11.9 % overlap with Right_Caudate_Nucleus, code 72
+  11.6 % overlap with Left_Caudate_Nucleus, code 71",N/A,1384*,1384*,0,14,-8,,,5.061
+,L,"58.4 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  25.1 % overlap with Left_Superior_Parietal_Lobule, code 59",N/A,1288*,1288*,-34,-68,60,,,-4.025
+,R,"42.2 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  34.3 % overlap with Right_Angular_Gyrus, code 66",N/A,1234*,1234*,32,-72,60,,,-4.544
+,L,"25.2 % overlap with Left_Calcarine_Gyrus, code 43
+  16.6 % overlap with Right_Calcarine_Gyrus, code 44
+  16.3 % overlap with Right_Precuneus, code 68
+  12.5 % overlap with Left_Cuneus, code 45
+  10.5 % overlap with Left_Precuneus, code 67",Left-SecVisual (18),758*,758*,-14,-60,14,,,4.946
+,L,"39.7 % overlap with Left_SMA, code 19
+  25.9 % overlap with Right_SMA, code 20
+  16.0 % overlap with Left_Superior_Medial_Gyrus, code 23
+  10.2 % overlap with Right_Superior_Medial_Gyrus, code 24",Right-FrontEyeFields (8),598*,598*,0,20,50,,,-4.597
+,L,"46.8 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  22.8 % overlap with Left_Middle_Temporal_Gyrus, code 85",N/A,518*,518*,-50,-80,30,,,3.347
+,R,"59.5 % overlap with Right_Middle_Frontal_Gyrus, code 8
+  18.4 % overlap with Right_Inferior_Frontal_Gyrus_(p._Triangularis), code 14",N/A,481*,481*,52,36,34,,,-3.611
+,L,"32.0 % overlap with Right_Superior_Medial_Gyrus, code 24
+  27.0 % overlap with Left_Superior_Medial_Gyrus, code 23
+  13.4 % overlap with Right_Anterior_Cingulate_Cortex, code 32
+  12.7 % overlap with Right_Mid_Orbital_Gyrus, code 26",Left-DorsalACC (32),436*,436*,-6,48,-6,,,3.43
+,L,"52.1 % overlap with Left_Fusiform_Gyrus, code 55
+  20.2 % overlap with Left_ParaHippocampal_Gyrus, code 39
+  19.7 % overlap with Left_Lingual_Gyrus, code 47",Left-VisualAssoc (19),311*,311*,-28,-48,-8,,,4.831
+,R,"77.9 % overlap with Right_Middle_Temporal_Gyrus, code 86",N/A,285*,285*,62,-62,18,,,3.438
+,L,"46.4 % overlap with Left_Calcarine_Gyrus, code 43
+  23.8 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  21.0 % overlap with Left_Inferior_Occipital_Gyrus, code 53",N/A,261*,261*,8,-100,-4,,,-3.502
+,R,"44.9 % overlap with Right_Medial_Temporal_Pole, code 88
+  26.6 % overlap with Right_Temporal_Pole, code 84
+  25.9 % overlap with Right_Inferior_Temporal_Gyrus, code 90",Right-ParsObitalis (47),193*,193*,44,26,-22,,,3.407
+,R,"43.6 % overlap with Right_Fusiform_Gyrus, code 56
+  37.3 % overlap with Right_ParaHippocampal_Gyrus, code 40
+  17.1 % overlap with Right_Lingual_Gyrus, code 48",Right-Fusiform (37),186*,186*,24,-40,-12,,,4.508
+,L,"39.8 % overlap with Left_Insula_Lobe, code 29
+  21.1 % overlap with Left_Superior_Temporal_Gyrus, code 81",Left-SupTempGyrus (22),185*,185*,-40,-18,-4,,,4.384
+,,"66.4 % overlap with Cerebellar_Vermis_(4/5), code 111
+  25.9 % overlap with Right_Cerebellum_(IV-V), code 98",N/A,179*,179*,0,-52,-16,,,-3.941
+,R,"66.7 % overlap with Right_Cuneus, code 46
+  25.1 % overlap with Right_Superior_Occipital_Gyrus, code 50",N/A,156*,156*,14,-90,42,,,4.107
+,R,"51.5 % overlap with Right_Mid_Orbital_Gyrus, code 26
+  33.8 % overlap with Left_Mid_Orbital_Gyrus, code 25",Right-OrbFrontal (11),153*,153*,0,50,-16,,,3.761
+,L,"47.3 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  18.8 % overlap with Left_Middle_Orbital_Gyrus, code 9
+  18.1 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13
+  15.2 % overlap with Left_Inferior_Frontal_Gyrus_(p._Orbitalis), code 15",N/A,153*,153*,-46,54,4,,,-3.353
+LargeGain > LargeLoss (Ado),L,"20.3 % overlap with Left_Inferior_Occipital_Gyrus, code 53
+  19.7 % overlap with Left_Lingual_Gyrus, code 47
+  16.2 % overlap with Left_Calcarine_Gyrus, code 43
+  12.4 % overlap with Left_Cerebellum_(Crus_1), code 91
+  12.1 % overlap with Left_Middle_Occipital_Gyrus, code 51",Lef-SecVisual (18),1522*,1522*,-6,-102,-10,153,153,-3.654
+,L,"37.1 % overlap with Left_Superior_Parietal_Lobule, code 59
+  34.3 % overlap with Left_Inferior_Parietal_Lobule, code 61",N / A,1369*,1369*,0,-72,54,,,-4.196
+,R,"32.8 % overlap with Right_Lingual_Gyrus, code 48
+  17.4 % overlap with Right_Cerebellum_(VI), code 100
+  15.8 % overlap with Right_Cerebellum_(Crus_1), code 92
+  15.3 % overlap with Right_Calcarine_Gyrus, code 44
+  11.3 % overlap with Right_Inferior_Occipital_Gyrus, code 54",Right-PrimVisual (17),718*,718*,12,-96,-8,,,-3.835
+,R,"35.4 % overlap with Right_Superior_Parietal_Lobule, code 60
+  18.4 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  18.0 % overlap with Right_Angular_Gyrus, code 66",Right-PreMot+SuppMot (6),544*,544*,28,-7,58,,,-3.39
+,L,"71.5 % overlap with Left_Precentral_Gyrus, code 1
+  15.0 % overlap with Left_Inferior_Frontal_Gyrus_(p._Opercularis), code 11",Left-PreMot+SuppMot (6),493*,493*,-58,10,40,,,-4.376
+,R,"34.5 % overlap with Right_Superior_Frontal_Gyrus, code 4
+  21.0 % overlap with Right_Middle_Frontal_Gyrus, code 8",N / A,380*,380*,38,2,68,,,-3.642
+,R,"34.5 % overlap with Right_Superior_Frontal_Gyrus, code 4
+  21.0 % overlap with Right_Middle_Frontal_Gyrus, code 8",N / A,274*,274*,6,-82,-18,,,-3.519
+,L,"59.0 % overlap with Left_SMA, code 19
+  33.5 % overlap with Right_SMA, code 20",N / A,272*,272*,0,14,52,,,-4.291
+,L,"35.6 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  24.7 % overlap with Left_Precentral_Gyrus, code 1
+  22.5 % overlap with Left_Superior_Frontal_Gyrus, code 3",N / A,271*,271*,-28,2,74,,,-4.227
+,L,"75.6 % overlap with Left_Insula_Lobe, code 29
+  10.2 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13",Left-Broca-Triang (45),165*,165*,-50,18,-2,,,-3.363
+,,,,,,,,,,,
+LargeGain > LargeLoss (Adu),L,"18.6 % overlap with Left_Superior_Medial_Gyrus, code 23
+  14.7 % overlap with Left_Mid_Orbital_Gyrus, code 25",Left-OrbFrontal (11),2942*,2942*,-4,46,-20,149,149,3.794
+,L,"50.7 % overlap with Left_Inferior_Parietal_Lobule, code 61
+  41.3 % overlap with Left_Superior_Parietal_Lobule, code 59",N / A,1379*,1379*,-16,-70,66,,,-3.481
+,L,"20.2 % overlap with Left_Lingual_Gyrus, code 47
+  18.8 % overlap with Left_Calcarine_Gyrus, code 43
+  17.6 % overlap with Left_Inferior_Occipital_Gyrus, code 53
+  12.8 % overlap with Left_Fusiform_Gyrus, code 55
+  10.4 % overlap with Left_Cerebellum_(Crus_1), code 91",N / A,1187*,1187*,-26,-78,-18,,,-4.089
+,R,"30.8 % overlap with Right_Inferior_Parietal_Lobule, code 62
+  23.4 % overlap with Right_Superior_Parietal_Lobule, code 60
+  17.8 % overlap with Right_Angular_Gyrus, code 66",N / A,1075*,1075*,32,-70,62,,,-3.768
+,L,"31.4 % overlap with Left_Precuneus, code 67
+  17.4 % overlap with Left_Calcarine_Gyrus, code 43
+  12.4 % overlap with Left_Middle_Cingulate_Cortex, code 33
+  9.9 % overlap with Left_Cuneus, code 45",N / A,1044*,1044*,-4,-52,8,,,5.227
+,L,"53.3 % overlap with Left_Precentral_Gyrus, code 1
+  21.8 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), code 13
+  15.5 % overlap with Left_Middle_Frontal_Gyrus, code 7",N / A,767*,767*,-56,10,44,,,-3.669
+,R,"34.6 % overlap with Right_Cerebellum_(VI), code 100
+  18.9 % overlap with Right_Cerebellum_(Crus_1), code 92
+  17.0 % overlap with Right_Cerebellum_(Crus_2), code 94
+  14.9 % overlap with Cerebellar_Vermis_(7), code 113",N / A,629*,629*,26,-86,-20,,,-3.586
+,L,"55.6 % overlap with Left_Middle_Frontal_Gyrus, code 7
+  39.3 % overlap with Left_Superior_Frontal_Gyrus, code 3",N / A,348*,348*,-28,38,52,,,3.491
+,L,"40.3 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  12.9 % overlap with Left_Angular_Gyrus, code 65",N / A,329*,329*,-38,-84,42,,,3.402
+,R,"51.7 % overlap with Right_SupraMarginal_Gyrus, code 64
+  20.2 % overlap with Right_Superior_Temporal_Gyrus, code 82
+  15.2 % overlap with Right_Rolandic_Operculum, code 18",Right-SupramargGyr (40),326*,326*,68,-20,16,,,3.553
+,L,"42.9 % overlap with Left_Precentral_Gyrus, code 1",N / A,318*,318*,-32,-10,76,,,-4.264
+,L,"85.3 % overlap with Left_Superior_Temporal_Gyrus, code 81
+  13.6 % overlap with Left_SupraMarginal_Gyrus, code 63",Left-SupTempGyrus (22),287*,287*,-58,-30,16,,,4.629
+,,"62.0 % overlap with Left_SMA, code 19
+  38.0 % overlap with Right_SMA, code 20",N / A,192*,192*,0,16,52,,,-3.923
+,R,"49.5 % overlap with Right_Precentral_Gyrus, code 2
+  30.7 % overlap with Right_Inferior_Frontal_Gyrus_(p._Opercularis), code 12
+  15.1 % overlap with Right_Middle_Frontal_Gyrus, code 8",Right-FrontEyeFields (8),175*,175*,40,4,34,,,-4.595
+Gist > Verbatim (Adu),L,"54.6 % overlap with Left_Calcarine_Gyrus, code 43
+  
+ 23.7 % overlap with Left_Cuneus, code 45
+  
+ 12.3 % overlap with Left_Lingual_Gyrus, code 47
+  
+ 6.5 % overlap with Left_Superior_Occipital_Gyrus, code 49",Right-SecVisual(18),339*,339*,0,-94,22,151,151,3.517
+,R,"62.2 % overlap with Right_Calcarine_Gyrus, code 44
+  
+ 19.3 % overlap with Right_Lingual_Gyrus, code 48
+  
+  
+ 15.7 % overlap with Right_Cuneus, code 46",Right-PrimVisual(17),261*,261*,10,-82,6,,,4.324
+,L,"58.8 % overlap with Left_Middle_Occipital_Gyrus, code 51",Left-SecVisual(18),191*,191*,-26,-102,6,,,-3.976
+,,,,,,,,,,,
+Verbatim>Gist (Adu),,"54.6 % overlap with Left_Calcarine_Gyrus, code 43
+  23.7 % overlap with Left_Cuneus, code 45
+  12.3 % overlap with Left_Lingual_Gyrus, code 47",Right-SecVisual (18),339,339,0,-94,22,,,-3.517
+,,"62.2 % overlap with Right_Calcarine_Gyrus, code 44
+  19.3 % overlap with Right_Lingual_Gyrus, code 48
+  15.7 % overlap with Right_Cuneus, code 46",Right-PrimVisual (17),261,261,10,-82,6,,,-4.324
+,,"58.8 % overlap with Left_Middle_Occipital_Gyrus, code 51",Left-SecVisual (18),191,191,-26,-102,6,,,3.976
+,,,,,,,,,,,
+MixedGist > Verbatim (Adu),L,"35.9 % overlap with Left_Calcarine_Gyrus, code 43
+  
+  22.0 % overlap with Right_Calcarine_Gyrus, code 44","Right-SecVisual
+ (18)",2276*,2276*,2,-96,0,155,155,3.335
+,,,,,,,,,,,
+MixedGist > Verbatim (Ado),L,"63.9 % overlap with Left_Calcarine_Gyrus, code  43
+  
+  19.7 % overlap with Left_Lingual_Gyrus, code 47",Left-SecVisual(18),480*,480*,-2,-100,-4,156,156,3.457
+,R,"69.6 % overlap with Right_Calcarine_Gyrus, code 44
+  
+  18.6 % overlap with Right_Cuneus, code 46",Right-PrimVisual(17),388*,388*,10,-96,-2,,,3.325
+,R,"96.3 % overlap with Right_Lingual_Gyrus, code 48",Right-SecVisual(18),22,22,8,-78,-12,,,3.449
+,L,"93.6 % overlap with Left_Inferior_Frontal_Gyrus_(p._Orbitalis), code 15",Left-ParsOrbitalis(47),21,21,-46,36,-18,,,-3.871
+,,,,,,,,,,,
+Verbatim > MixedGist (Adu),L,"35.9 % overlap with Left_Calcarine_Gyrus, code 43
+  22.0 % overlap with Right_Calcarine_Gyrus, code 44",Right-SecVisual(18),2276*,2276*,2,-96,0,158,158,-3.335
+,,,,,,,,,,,
+Verbatim > MixedGist (Ado),L,"67.4 % overlap with Left_Calcarine_Gyrus, code 43
+  12.0 % overlap with Left_Lingual_Gyrus, code 47
+  10.7 % overlap with Left_Superior_Occipital_Gyrus, code 49",Left-SecVisual(18),357*,357*,-2,-100,4,153,153,-3.738
+,R,"65.3 % overlap with Right_Calcarine_Gyrus, code 44
+  23.3 % overlap with Right_Cuneus, code 46","Right-PrimVisual(17
+ )",222*,222*,10,-96,2,,,-3.43
+,,,,,,,,,,,
+Gist > VerbatimMixed (Ado),L,"39.3 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  20.8 % overlap with Left_Inferior_Occipital_Gyrus, code 53
+  13.7 % overlap with Left_Calcarine_Gyrus, code 43",Left-SecVisual(18),1010*,1010*,-10,-106,-6,152,152,-3.899
+,,,,,,,,,,,
+,R,"54.0 % overlap with Right_Calcarine_Gyrus, code 44",Right-SecVisual(18),197*,197*,10,-102,4,,,-3.881
+,R,"46.3 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  15.1 % overlap with Right_Angular_Gyrus, code 66",Right-VisMotor (7),159*,159*,26,-66,44,,,-4.029
+Gist > VerbatimMixed (Ado),,"32.3 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  18.0 % overlap with Left_Inferior_Occipital_Gyrus, code 53
+  13.0 % overlap with Left_Lingual_Gyrus, code 47",Left-SecVisual(18),1725*,1725*,-26,-102,6,156,156,-4.901
+,,"22.4 % overlap with Right_Inferior_Occipital_Gyrus, code 54
+  20.5 % overlap with Right_Lingual_Gyrus, code 48
+  15.0 % overlap with Right_Middle_Occipital_Gyrus, code 52
+  14.0 % overlap with Right_Calcarine_Gyrus, code 44",N / A,1488*,1488*,12,-100,20,,,-3.459
+,,,,,,,,,,,
+"GistGain_V_VGain
+  
+ (Adu)",L,"55.1 % overlap with Left_Middle_Occipital_Gyrus, code 51
+  
+  21.0 % overlap with Left_Inferior_Occipital_Gyrus, code 53",Left-SecVisual(18),195*,195*,-26,-102,6,157,157,-4.129
+,L,"51.5 % overlap with Left_Calcarine_Gyrus, code 43
+  
+ 30.8 % overlap with Left_Cuneus, code 45
+  
+ 15.9 % overlap with Left_Superior_Occipital_Gyrus, code 49
+  
+  1.4 % overlap with Left_Lingual_Gyrus, code 47",Left-SecVisual(18),164*,164*,-2,-94,20,,,3.681
+,R,"92.1 % overlap with Right_Cuneus, code 46
+  
+ 5.1 % overlap with Right_Superior_Occipital_Gyrus, code 50
+  
+  2.9 % overlap with Right_Calcarine_Gyrus, code 44",Right-VisualAssoc(19),161*,161*,12,-88,30,,,3.291
+,,,,,,,,,,,
+GLargeGain>VLargeGain (Adu),R,"66.4 % overlap with Right_Cuneus, code 46
+  
+  30.6 % overlap with Right_Superior_Occipital_Gyrus, code 50
+ 2.9 % overlap with Left_Cuneus, code 45",Right-VisualAssoc (19),215*,215*,14,-90,34,144,144,3.293
+,,,,,,,,,,,
+VLargeGain>GLargeGain (adu),R,"66.4 % overlap with Right_Cuneus,
+ 30.6 % overlap with Right_Superior_Occipital_Gyrus
+ 2.9 % overlap with Left_Cuneus",Right-VisualAssoc (19),215*,215*,14,-90,34,152,152,-3.293
+VSmallRisk>MSmallRIsk (ado),L,"46.4 % overlap with Left_Middle_Occipital_Gyrus
+  16.1 % overlap with Left_Calcarine_Gyrus
+  11.8 % overlap with Left_Inferior_Occipital_Gyrus
+  10.9 % overlap with Left_Superior_Occipital_Gyrus",N/A,682*,682*,-14,-104,14,146,146,-3.964
+,R,68.1 % overlap with Right_Calcarine_Gyrus,Right-SecVisual (18),303*,303*,12,-104,4,,,-4.081
+,L,"70.8 % overlap with Left_Inferior_Frontal_Gyrus_(p._Triangularis), 
+  15.1 % overlap with Left_Inferior_Frontal_Gyrus_(p._Orbitalis), 
+  11.4 % overlap with Left_Middle_Frontal_Gyrus,",Left-dlPFC(lat) (46),181*,181*,-50,46,4,,,3.459
+VSmallRisk>MSmallRisk (adu),R,"25.4 % overlap with Right_Calcarine_Gyrus,
+  16.9 % overlap with Right_Lingual_Gyrus",Right-PrimVisual (17),1448*,1418*,8,-96,0,129,129,-3.485
+,L,"24.9 % overlap with Left_Middle_Occipital_Gyrus, 
+  17.1 % overlap with Left_Calcarine_Gyrus, 
+  13.8 % overlap with Left_Lingual_Gyrus, 
+  12.6 % overlap with Left_Inferior_Occipital_Gyrus,",Left-SecVisual (18),1381*,1381*,-10,106,-2,,,-4.636
